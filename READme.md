@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Himani Gurung.
-- 👀 I’m interested in programming.
-- 🌱 I’m currently learning ...
+- 👀 I’m interested in web development.
+- 🌱 I’m currently learning React.
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 You can reach me through himanigrg9863@gmail.com 
 
 <!---
 HimaniGrg/HimaniGrg is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
