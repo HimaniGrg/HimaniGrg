@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Himani Gurung.
 - 👀 I’m interested in web development.
-- 🌱 I’m currently learning React.
+- 🌱 I’m currently learning Laravel.
 - 💞️ I’m looking to collaborate on ...
 - 📫 You can reach me through himanigrg9863@gmail.com 
 
