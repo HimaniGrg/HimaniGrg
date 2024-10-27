@@ -3,11 +3,10 @@
 - 🌱 I’m currently learning Laravel.
 - 💞️ I’m looking to collaborate on ...
 - 📫 You can reach me through himanigrg9863@gmail.com
-
 - ```python
 def hello_world():
     print("Hello, world!")
-
+```
   
 
 <!---
