@@ -15,6 +15,9 @@ Passionate about **NLP, Computer Vision, and Transformer Architectures**.
 - **Data Tools:** Pandas, NumPy, SQL  
 - **Software Engineering:** Laravel, Livewire, Git, Agile  
 - **Other:** NLP, Computer Vision, APIs
+
+[![My Skills](https://skillicons.dev/icons?i=python,tensorflow,pytorch,fastapi,react,laravel,mysql,postgresql,docker,linux,git,github,figma)](https://skillicons.dev)
+
   
 ![Python](https://img.shields.io/badge/Python-3.10-blue)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-2.x-orange)
