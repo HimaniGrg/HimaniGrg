@@ -10,13 +10,13 @@ Passionate about **NLP, Computer Vision, and Transformer Architectures**.
 
 ---
 ### 🚀 Tech Stack
+[![My Skills](https://skillicons.dev/icons?i=python,laravel,mysql,docker,linux,git,github,figma,tensorflow,pytorch)](https://skillicons.dev)
 - **Languages:** Python, PHP, JavaScript, SQL  
 - **ML & AI:** TensorFlow, Scikit-learn, Hugging Face, Transformers, ResNet  
 - **Data Tools:** Pandas, NumPy, SQL  
 - **Software Engineering:** Laravel, Livewire, Git, Agile  
 - **Other:** NLP, Computer Vision, APIs
 
-[![My Skills](https://skillicons.dev/icons?i=python,tensorflow,pytorch,fastapi,react,laravel,mysql,postgresql,docker,linux,git,github,figma)](https://skillicons.dev)
 
   
 ![Python](https://img.shields.io/badge/Python-3.10-blue)
